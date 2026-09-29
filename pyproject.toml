@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-agent-trajectory-pass-fail-evaluator-skill"
+version = "1.0.0"
+description = "Step-by-step agent trajectory evaluator comparing execution traces against golden tool call sequences"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
