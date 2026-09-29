@@ -1,0 +1,20 @@
+{
+  "name": "genpark-agent-trajectory-pass-fail-evaluator-skill",
+  "version": "1.0.0",
+  "description": "Step-by-step agent trajectory evaluator comparing execution traces against golden tool call sequences",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "trajectory-evaluator",
+    "agent-benchmarks",
+    "evaluation",
+    "tool-call-eval",
+    "agent-reliability",
+    "python-standard-library",
+    "agent-skills",
+    "quality-assurance",
+    "testing",
+    "developer-tools"
+  ]
+}
