@@ -1,0 +1,6 @@
+name: genpark-agent-trajectory-pass-fail-evaluator-skill
+version: 1.0.0
+description: Step-by-step agent trajectory evaluator comparing execution traces against golden tool call sequences
+command: python
+args:
+  - mcp_server.py
